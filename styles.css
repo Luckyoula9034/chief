@@ -12,7 +12,7 @@ body{
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color:black;
+    background-color:whitesmoke;
 
 }
 li>a{
@@ -107,6 +107,10 @@ div.gallery {
   div.desc {
     padding: 15px;
     text-align: center;
+  }
+  footer{
+      text-align: center;
+      background-color: white;
   }
 
 
